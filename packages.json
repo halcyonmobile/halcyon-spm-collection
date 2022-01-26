@@ -1,0 +1,13 @@
+{
+  "name": "Halcyon Mobile Swift Packages",
+  "overview": "This collections contains our commonly used Swift packages.",
+  "keywords": ["swift", "package", "halcyon", "mobile"],
+  "packages": [
+    {
+      "url": "https://github.com/halcyonmobile/RestBird.git"
+    },
+    {
+      "url": "https://github.com/onevcat/Kingfisher.git"
+    }
+  ]
+}
